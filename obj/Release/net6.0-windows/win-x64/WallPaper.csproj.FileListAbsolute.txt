@@ -1,0 +1,17 @@
+D:\WinForm Program\WallPaper\bin\Release\net6.0-windows\win-x64\WallPaper.exe
+D:\WinForm Program\WallPaper\bin\Release\net6.0-windows\win-x64\WallPaper.deps.json
+D:\WinForm Program\WallPaper\bin\Release\net6.0-windows\win-x64\WallPaper.runtimeconfig.json
+D:\WinForm Program\WallPaper\bin\Release\net6.0-windows\win-x64\WallPaper.dll
+D:\WinForm Program\WallPaper\bin\Release\net6.0-windows\win-x64\WallPaper.pdb
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\WallPaper.csproj.AssemblyReference.cache
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\WallPaper.FrmMain.resources
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\WallPaper.csproj.GenerateResource.cache
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\WallPaper.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\WallPaper.AssemblyInfoInputs.cache
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\WallPaper.AssemblyInfo.cs
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\WallPaper.csproj.CoreCompileInputs.cache
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\WallPaper.dll
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\refint\WallPaper.dll
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\WallPaper.pdb
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\WallPaper.genruntimeconfig.cache
+D:\WinForm Program\WallPaper\obj\Release\net6.0-windows\win-x64\ref\WallPaper.dll

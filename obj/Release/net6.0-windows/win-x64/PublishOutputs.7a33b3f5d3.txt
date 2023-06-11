@@ -1,0 +1,5 @@
+D:\WinForm Program\WallPaper\bin\Release\net6.0-windows\publish\win-x64\WallPaper.exe
+D:\WinForm Program\WallPaper\bin\Release\net6.0-windows\publish\win-x64\WallPaper.dll
+D:\WinForm Program\WallPaper\bin\Release\net6.0-windows\publish\win-x64\WallPaper.deps.json
+D:\WinForm Program\WallPaper\bin\Release\net6.0-windows\publish\win-x64\WallPaper.runtimeconfig.json
+D:\WinForm Program\WallPaper\bin\Release\net6.0-windows\publish\win-x64\WallPaper.pdb

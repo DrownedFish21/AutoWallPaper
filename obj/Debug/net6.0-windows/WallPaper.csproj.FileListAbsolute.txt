@@ -1,0 +1,51 @@
+D:\WinForm Program\WallPaper\bin\Debug\net6.0-windows\WallPaper.exe
+D:\WinForm Program\WallPaper\bin\Debug\net6.0-windows\WallPaper.deps.json
+D:\WinForm Program\WallPaper\bin\Debug\net6.0-windows\WallPaper.runtimeconfig.json
+D:\WinForm Program\WallPaper\bin\Debug\net6.0-windows\WallPaper.dll
+D:\WinForm Program\WallPaper\bin\Debug\net6.0-windows\WallPaper.pdb
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\WallPaper.csproj.AssemblyReference.cache
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\WallPaper.csproj.GenerateResource.cache
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\WallPaper.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\WallPaper.AssemblyInfoInputs.cache
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\WallPaper.AssemblyInfo.cs
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\WallPaper.csproj.CoreCompileInputs.cache
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\WallPaper.dll
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\refint\WallPaper.dll
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\WallPaper.pdb
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\WallPaper.genruntimeconfig.cache
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\ref\WallPaper.dll
+D:\WinForm Program\WallPaper\obj\Debug\net6.0-windows\WallPaper.FrmMain.resources
+C:\Users\24964\Desktop\张辉洋\WallPaper\bin\Debug\net6.0-windows\WallPaper.exe
+C:\Users\24964\Desktop\张辉洋\WallPaper\bin\Debug\net6.0-windows\WallPaper.deps.json
+C:\Users\24964\Desktop\张辉洋\WallPaper\bin\Debug\net6.0-windows\WallPaper.runtimeconfig.json
+C:\Users\24964\Desktop\张辉洋\WallPaper\bin\Debug\net6.0-windows\WallPaper.dll
+C:\Users\24964\Desktop\张辉洋\WallPaper\bin\Debug\net6.0-windows\WallPaper.pdb
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\WallPaper.csproj.AssemblyReference.cache
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\WallPaper.FrmMain.resources
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\WallPaper.csproj.GenerateResource.cache
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\WallPaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\WallPaper.AssemblyInfoInputs.cache
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\WallPaper.AssemblyInfo.cs
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\WallPaper.csproj.CoreCompileInputs.cache
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\WallPaper.dll
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\refint\WallPaper.dll
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\WallPaper.pdb
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\WallPaper.genruntimeconfig.cache
+C:\Users\24964\Desktop\张辉洋\WallPaper\obj\Debug\net6.0-windows\ref\WallPaper.dll
+D:\Winform Application\WallPaper\bin\Debug\net6.0-windows\WallPaper.exe
+D:\Winform Application\WallPaper\bin\Debug\net6.0-windows\WallPaper.deps.json
+D:\Winform Application\WallPaper\bin\Debug\net6.0-windows\WallPaper.runtimeconfig.json
+D:\Winform Application\WallPaper\bin\Debug\net6.0-windows\WallPaper.dll
+D:\Winform Application\WallPaper\bin\Debug\net6.0-windows\WallPaper.pdb
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\WallPaper.csproj.AssemblyReference.cache
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\WallPaper.FrmMain.resources
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\WallPaper.csproj.GenerateResource.cache
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\WallPaper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\WallPaper.AssemblyInfoInputs.cache
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\WallPaper.AssemblyInfo.cs
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\WallPaper.csproj.CoreCompileInputs.cache
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\WallPaper.dll
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\refint\WallPaper.dll
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\WallPaper.pdb
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\WallPaper.genruntimeconfig.cache
+D:\Winform Application\WallPaper\obj\Debug\net6.0-windows\ref\WallPaper.dll
